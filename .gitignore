@@ -1,0 +1,10 @@
+
+# Node / Next.js
+node_modules
+.next
+out
+# Env files
+.env*
+# Logs / misc
+*.log
+.DS_Store
